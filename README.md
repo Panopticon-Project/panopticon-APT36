@@ -7,3 +7,5 @@ https://securelist.com/transparent-tribe-part-1/98127/
 https://www.seqrite.com/blog/operation-sidecopy/
 
 https://blog.talosintelligence.com/2021/02/obliquerat-new-campaign.html - low confidence
+
+https://team-cymru.com/blog/2021/04/16/transparent-tribe-apt-infrastructure-mapping/
