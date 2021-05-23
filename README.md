@@ -11,3 +11,5 @@ https://blog.talosintelligence.com/2021/02/obliquerat-new-campaign.html - low co
 https://team-cymru.com/blog/2021/04/16/transparent-tribe-apt-infrastructure-mapping/
 
 https://securityaffairs.co/wordpress/117963/apt/transparent-tribe-malware.html?utm_source=rss
+
+https://blog.talosintelligence.com/2021/05/transparent-tribe-infra-and-targeting.html
