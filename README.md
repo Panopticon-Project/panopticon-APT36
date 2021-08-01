@@ -15,3 +15,5 @@ https://securityaffairs.co/wordpress/117963/apt/transparent-tribe-malware.html?u
 https://blog.talosintelligence.com/2021/05/transparent-tribe-infra-and-targeting.html
 
 https://team-cymru.com/blog/2021/07/02/transparent-tribe-apt-infrastructure-mapping-2/
+
+https://duo.com/decipher/transparent-tribe-apt-adds-new-windows-malware
