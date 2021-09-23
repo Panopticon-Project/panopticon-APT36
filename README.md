@@ -17,3 +17,5 @@ https://blog.talosintelligence.com/2021/05/transparent-tribe-infra-and-targeting
 https://team-cymru.com/blog/2021/07/02/transparent-tribe-apt-infrastructure-mapping-2/
 
 https://duo.com/decipher/transparent-tribe-apt-adds-new-windows-malware
+
+https://blog.talosintelligence.com/2021/09/operation-armor-piercer.html - saying overap
