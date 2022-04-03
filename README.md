@@ -23,3 +23,5 @@ https://blog.talosintelligence.com/2021/09/operation-armor-piercer.html - saying
 https://www.trendmicro.com/en_us/research/22/a/investigating-apt36-or-earth-karkaddans-attack-chain-and-malware.html
 
 https://blog.talosintelligence.com/2022/02/whats-with-shared-vba-code.html
+
+https://thehackernews.com/2022/03/new-hacking-campaign-by-transparent.html
