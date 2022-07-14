@@ -27,3 +27,5 @@ https://blog.talosintelligence.com/2022/02/whats-with-shared-vba-code.html
 https://thehackernews.com/2022/03/new-hacking-campaign-by-transparent.html
 
 https://blog.talosintelligence.com/2022/03/transparent-tribe-new-campaign.html
+
+https://blog.talosintelligence.com/2022/07/transparent-tribe-targets-education.html
