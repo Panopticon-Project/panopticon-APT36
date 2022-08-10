@@ -29,3 +29,5 @@ https://thehackernews.com/2022/03/new-hacking-campaign-by-transparent.html
 https://blog.talosintelligence.com/2022/03/transparent-tribe-new-campaign.html
 
 https://blog.talosintelligence.com/2022/07/transparent-tribe-targets-education.html
+
+https://about.fb.com/wp-content/uploads/2022/08/Quarterly-Adversarial-Threat-Report-Q2-2022.pdf
