@@ -31,3 +31,5 @@ https://blog.talosintelligence.com/2022/03/transparent-tribe-new-campaign.html
 https://blog.talosintelligence.com/2022/07/transparent-tribe-targets-education.html
 
 https://about.fb.com/wp-content/uploads/2022/08/Quarterly-Adversarial-Threat-Report-Q2-2022.pdf
+
+https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA%3D%3D&mid=2247491361&idx=1&sn=244adf7e3491d79b163c627a92cc9218&utm_source=substack&utm_medium=email
