@@ -35,3 +35,5 @@ https://about.fb.com/wp-content/uploads/2022/08/Quarterly-Adversarial-Threat-Rep
 https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA%3D%3D&mid=2247491361&idx=1&sn=244adf7e3491d79b163c627a92cc9218&utm_source=substack&utm_medium=email
 
 https://mp.weixin.qq.com/s/PTWzKIPsO92XCP4-pXRDgg
+
+https://mp-weixin-qq-com.translate.goog/s/PTWzKIPsO92XCP4-pXRDgg?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
